@@ -54,7 +54,7 @@ EGX100 = [
     "NCCW.CA", "SCEM.CA", "ARAB.CA", "GDWA.CA", "ELEC.CA",
     "IRON.CA", "ATQA.CA", "EGCH.CA", "ALCN.CA",
     "MPCO.CA", "ELSH.CA", "MEPA.CA", "ODIN.CA", "EGAS.CA",
-    "RACC.CA", "PRCL.CA", "BINV.CA", "EDBM.CA", "MCQE.CA",
+    "RACC.CA", "PRCL.CA", "BINV.CA", "EDFM.CA", "MCQE.CA",
     "MOIL.CA", "NIPH.CA", "ISPH.CA", "DSCW.CA",
     "UNIT.CA", "PHAR.CA", "TRTO.CA",
     "ICFC.CA", "ELKA.CA",
