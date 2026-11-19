@@ -102,7 +102,7 @@ EGX100 = [
     "CCRS.CA",
     "AREH.CA",
     "EPCO.CA",
-    "FCMD.CA",
+    
     "GRCA.CA",
     "GIHD.CA",
     "ELWA.CA",
@@ -110,17 +110,14 @@ EGX100 = [
     "NEDA.CA",
     "EPPK.CA",
     "GMCI.CA",
-    "CPME.CA",
-    "VLMR.CA",
-    "GPPL.CA", "ADPC.CA",
-"ADRI.CA", 
-"AIDC.CA", "OBRI.CA",
+
+    
+    "GPPL.CA", "ADPC.CA",  "OBRI.CA",
 "RREI.CA",
 "RKAZ.CA",
 "SEIG.CA",
 "SNFC.CA",
 
-"UPMS.CA",
 
 
 "WKOL.CA",
@@ -128,8 +125,8 @@ EGX100 = [
 "AIFI.CA",
 "AMIA.CA",
 
-"ACRO.CA",
-"DGTZ.CA",
+
+
 "DTPP.CA",
 "EALR.CA",
 "EBSC.CA",
@@ -140,7 +137,7 @@ EGX100 = [
 "FIRE.CA",
 "FNAR.CA",
 
-"GOUR.CA",
+
 "ICID.CA",
 "IDRE.CA",
 
