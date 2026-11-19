@@ -44,7 +44,7 @@ EGX100 = [
     "HRHO.CA", "TMGH.CA", "FWRY.CA", "SWDY.CA", "ETEL.CA",
     "AMOC.CA", "HELI.CA", "EAST.CA", "EFID.CA", "JUFO.CA",
     "ABUK.CA", "EMFD.CA", "CCAP.CA", "ACAP.CA",
-    "CICH.CA", "OCDI.CA", "ORHD.CA", "MASR.CA", "AIHC.CA",
+    "CICH.CA", "OCDI.CA", "ORHD.CA", "MASR.CA",
     "ADIB.CA", "SAUD.CA", "CIEB.CA", "FAIT.CA", "AFDI.CA",
     "CANA.CA", "EXPA.CA", "ARCC.CA", "AJWA.CA", "MICH.CA",
     "SUGR.CA", "POUL.CA", "DOMT.CA", "ISMA.CA", "UEGC.CA",
@@ -130,7 +130,7 @@ EGX100 = [
     
     "OLFI.CA", "SKPC.CA", "AMER.CA", "TALM.CA", "ALUM.CA",
     "ORWE.CA", "SPMD.CA", "ZMID.CA", "MENA.CA", "DAPH.CA",
-    "RAYA.CA", "EGAL.CA", "ECAP.CA", "MPRC.CA", "AFMC.CA",
+    "RAYA.CA", "EGAL.CA", "MPRC.CA", "AFMC.CA",
     "NCCW.CA", "SCEM.CA", "ARAB.CA", "GDWA.CA", "ELEC.CA",
     "IRON.CA", "ATQA.CA", "EGCH.CA", "ALCN.CA", "LCSW.CA",
     "MPCO.CA", "ELSH.CA", "MEPA.CA", "ODIN.CA", "EGAS.CA",
