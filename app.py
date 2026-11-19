@@ -43,7 +43,7 @@ EGX100 = [
     "EDFM.CA", "MILS.CA", "GBCO.CA", "SCTS.CA",
     "HRHO.CA", "TMGH.CA", "FWRY.CA", "SWDY.CA", "ETEL.CA",
     "AMOC.CA", "HELI.CA", "EAST.CA", "EFID.CA", "JUFO.CA",
-    "ABUK.CA", "EMFD.CA", "CCAP.CA", "ACAP.CA",
+    "ABUK.CA", "EMFD.CA", "CCAP.CA",
     "CICH.CA", "OCDI.CA", "ORHD.CA", "MASR.CA",
     "ADIB.CA", "SAUD.CA", "CIEB.CA", "FAIT.CA", "AFDI.CA",
     "CANA.CA", "EXPA.CA", "ARCC.CA", "AJWA.CA", "MICH.CA",
